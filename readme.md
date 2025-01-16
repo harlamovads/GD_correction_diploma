@@ -1,2 +1,1 @@
-"Here is some example text to test this is working"
-"Just for fun"
+"In this repo, I will post my progress on the diploma project devoted to automatically correcting students' mistakes regarding Graph Description task in IELTS-like English exams. Wish me luck and stay tuned for new updates! The repo is expected to be glitchy, as I'm still getting the hang of Git, but I will do my best!
