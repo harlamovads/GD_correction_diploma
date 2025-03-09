@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 *.pyo
+data_grouping.ipynb
+data_prep copy.ipynb
+data.tar.gz
+rawfiles/
