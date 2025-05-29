@@ -6,3 +6,23 @@ data_grouping.ipynb
 data_prep copy.ipynb
 data.tar.gz
 rawfiles/
+data/new_datasets/
+data/sentence_datasets/
+data/new_new_datasets/
+/data_preparation/wandb/
+/data_preparation/*.jsonl
+/data_preparation/*.
+/data_preparation/dev.spacy
+/data_preparation/train.spacy
+/data_preparation/test.spacy
+/data_preparation/dataset_analysis.py
+/data_preparation/*.spacy
+/data_preparation/transform_dataset.py
+/data_preparation/error_visualization.ipynb
+/spacy_training/
+/transformer_training/electra/
+corrections_clean.txt
+corrections_test.json
+corrections.json
+sources.json
+sources_clean.json
