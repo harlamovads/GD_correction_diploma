@@ -7,4 +7,4 @@ Resulting dataset links:
 
 Resulting models:
 - [t5-base + ensemble + Llama](https://huggingface.co/Zlovoblachko/REAlEC_2step_model_testing)
-- [t5-gec + ensemble + REALEC](Zlovoblachko/t5-grammar-corrector)
+- [t5-gec + ensemble + REALEC](https://huggingface.co/Zlovoblachko/t5-grammar-corrector)
