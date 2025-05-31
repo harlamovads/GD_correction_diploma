@@ -2,6 +2,8 @@ This repository contains the relevant code for the thesis "Developing a Graph De
 
 The repository contains the training notebooks for the prepared models as well as the the links to the resulting application.
 
+The repository containing the demo and the deployable version of the developed application can be found [here](https://github.com/harlamovads/Graph_description_training)
+
 Resulting dataset links: 
  - [REALEC_GEC_dataset](https://huggingface.co/Zlovoblachko) - the dataset comprising original REALEC data
 
